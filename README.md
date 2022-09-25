@@ -35,4 +35,4 @@ SMARTxiaofan is a digital solution for our SMART Mi Vendors built to deal with i
 Install the Apk by clicking [here](https://drive.google.com/file/d/1_xyyzF1AyQThiquNvS0FduS2NzpMXJPZ/view?usp=sharing) and watch on your mobile device.
 
 ## Source Code
-Download the source code from this repo or click [here](https://github.com/tannu610/SMARTxiaofan.git/archive/refs/heads/main.zip) to download it and then unzip the files.
+Download the source code from this repo or click [here](https://github.com/tannu610/SMARTxiaofan.io/archive/refs/heads/main.zip) to download it and then unzip the files.
