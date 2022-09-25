@@ -2,7 +2,6 @@
  Prototype for xiaomi ode2code 2.0
 <p align="center">
   <img src="https://i.ibb.co/2N8Kh2b/mockup.png"/>
-  <h1 align="center"/>CHAMELO!</h1>
 </p>
 
 SMARTxiaofan is a digital solution for our SMART Mi Vendors built to deal with invoicing, inventory, accounting needs, and much more. It can be available in multilingual to ease language barrier The goal is to make a vendor’s daily routine less tiring and let them focus more on growing their business and good relation with the customers, less on paperwork or invoicing.
