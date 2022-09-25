@@ -30,3 +30,6 @@ SMARTxiaofan is a digital solution for our SMART Mi Vendors built to deal with i
 10. You will get permission notification in your phone for installing apk allow to install (click install instead deny) 
 11. And now application is install in the mobile device you can run the application smoothly 
 12. To make changes you can do it in vs code and to see the results let your device connect to the vs code after making any change simply press the Hot start button 13. and the result will reflect to your connected device.
+
+## FOR DEMO 
+Install the Apk by clicking [here](https://drive.google.com/file/d/1_xyyzF1AyQThiquNvS0FduS2NzpMXJPZ/view?usp=sharing)and watch on your mobile device.
