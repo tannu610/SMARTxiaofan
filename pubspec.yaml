@@ -1,0 +1,81 @@
+name: xiaomi_code
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.5"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+   # create pdf document
+  pdf: ^3.1.0
+
+  # save file
+  path_provider: ^2.0.1
+
+  # open pdf document
+  open_file: ^3.1.0
+
+  # format dates for invoice
+  intl: ^0.17.0
+
+  printing: ^5.9.3 
+  image_picker: ^0.8.5+3
+  cupertino_icons: ^1.0.2
+  badges: ^2.0.3
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+    android: "launcher_icon"
+    ios: true
+    image_path: "assets/images/logo.png"
+    adaptive_icon_background: "191919"
+    adaptive_icon_forground: "assets/images/logo-adaptive.png"
+   
+ 
+
+  
+flutter_lints: ^2.0.0
+
+  
+
+
+
+
+flutter:
+
+  
+   uses-material-design: true
+
+ 
+   assets:
+      - assets/images/
+      - assets/images/logo.png
+      - assets/images/user_icon.jpg
+
+ 
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  
