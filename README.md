@@ -32,4 +32,4 @@ SMARTxiaofan is a digital solution for our SMART Mi Vendors built to deal with i
 12. To make changes you can do it in vs code and to see the results let your device connect to the vs code after making any change simply press the Hot start button 13. and the result will reflect to your connected device.
 
 ## FOR DEMO 
-Install the Apk by clicking [here](https://drive.google.com/file/d/1_xyyzF1AyQThiquNvS0FduS2NzpMXJPZ/view?usp=sharing)and watch on your mobile device.
+Install the Apk by clicking [here](https://drive.google.com/file/d/1_xyyzF1AyQThiquNvS0FduS2NzpMXJPZ/view?usp=sharing) and watch on your mobile device.
